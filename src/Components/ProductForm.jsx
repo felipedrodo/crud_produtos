@@ -51,6 +51,12 @@ export default function Productform(){
                     value={product.preco} onChange={handleChange} required/>
                  </Form.Group>
 
+                 <Form.Group className="mb-3">
+                    <Form.Label>Preço</Form.Label>
+                    <Form.Check type="checkbox" Label="Ativo" name="ativo"
+                        checked={product.ativo} onChange={handleChange} />
+                 </Form.Group>
+
                  <Button type="submit" variant="success">Salvar</Button>
          </Form>
         </div>
