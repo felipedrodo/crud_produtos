@@ -1,12 +1,20 @@
 {
-    "products": [
-        {
-            "id":1,
-            "nome": "Notebook",
-            "preco": 3500.00,
-            "ativo": true ,
-            "data_criacao":"2025-01-01" ,
-            "data_atualizacao": "2025-01-10"
-        }
-    ]
+  "products": [
+    {
+      "id": "1",
+      "nome": "Notebook",
+      "preco": 3500,
+      "ativo": true,
+      "data_criacao": "2025-01-01",
+      "data_atualizacao": "2025-01-10"
+    },
+    {
+      "id": "699e",
+      "nome": "computador",
+      "preco": "5000.01",
+      "ativo": true,
+      "data_criacao": "2025-09-09",
+      "data_atualizacao": "2025-09-09"
+    }
+  ]
 }
