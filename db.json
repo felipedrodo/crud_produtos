@@ -3,15 +3,31 @@
     {
       "id": "1",
       "nome": "Notebook",
-      "preco": 3500,
+      "preco": 3400,
       "ativo": true,
       "data_criacao": "2025-01-01",
       "data_atualizacao": "2025-01-10"
     },
     {
-      "id": "699e",
-      "nome": "computador",
-      "preco": "5000.01",
+      "id": "d930",
+      "nome": "Pc nintendo",
+      "preco": 2999.99,
+      "ativo": true,
+      "data_criacao": "2025-09-09",
+      "data_atualizacao": "2025-09-09"
+    },
+    {
+      "id": "ef1c",
+      "nome": "Mouse Redragon ",
+      "preco": 499.99,
+      "ativo": true,
+      "data_criacao": "2025-09-09",
+      "data_atualizacao": "2025-09-09"
+    },
+    {
+      "id": "ab55",
+      "nome": "Teclado Agory",
+      "preco": 149.99,
       "ativo": true,
       "data_criacao": "2025-09-09",
       "data_atualizacao": "2025-09-09"
